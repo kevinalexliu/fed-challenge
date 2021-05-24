@@ -1,5 +1,9 @@
 ## Front End Challenge
 
+### Screen Shot
+
+<img src="./complete/Basic Requirement.png" width="700">
+
 [![Design](https://raw.githubusercontent.com/qualialabs/fed-challenge/master/designs/thumbnail.jpg)](https://raw.githubusercontent.com/qualialabs/fed-challenge/master/designs/page.jpg)
 
 ### Instructions
